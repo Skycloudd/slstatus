@@ -70,8 +70,6 @@ static const struct arg args[] = {
 	{separator, " / ", NULL},
 	{netspeed_tx, "\U0000FC35 %s", "wlp69s0"},
 	{separator, " | ", NULL},
-	{ipv4, "\U0000F012  %s", "wlp69s0"},
-	{separator, " | ", NULL},
 	{disk_used, "\U0000F7C9 %s", "/"},
 	{separator, " / ", NULL},
 	{disk_total, "%s", "/"},
